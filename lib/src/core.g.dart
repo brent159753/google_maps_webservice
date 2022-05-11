@@ -105,10 +105,10 @@ K _$enumDecode<K, V>(
 }
 
 const _$TravelModeEnumMap = {
-  TravelMode.driving: 'DRIVING',
-  TravelMode.walking: 'WALKING',
-  TravelMode.bicycling: 'BICYCLING',
-  TravelMode.transit: 'TRANSIT',
+  TravelMode.driving: 'driving',
+  TravelMode.walking: 'walking',
+  TravelMode.bicycling: 'bicycling',
+  TravelMode.transit: 'transit',
 };
 
 _RouteType _$_RouteTypeFromJson(Map<String, dynamic> json) {

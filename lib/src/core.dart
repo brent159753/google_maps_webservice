@@ -143,13 +143,9 @@ class Component {
 }
 
 enum TravelMode {
-  @JsonValue('DRIVING')
   driving,
-  @JsonValue('WALKING')
   walking,
-  @JsonValue('BICYCLING')
   bicycling,
-  @JsonValue('TRANSIT')
   transit,
 }
 
